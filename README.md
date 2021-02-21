@@ -102,3 +102,7 @@ https://www.notion.so/1z0-808-675fb2a89e524ed7a76a5863295496b2
 https://www.notion.so/1z0-808-a0a95ce0eb3147ff9153fb6d0b110684
 
 https://www.notion.so/1z0-808-Loop-b5436d2eb7d141f5aaba01359f24fab8
+
+https://www.notion.so/1z0-808-da2e224c236e44189e4907fadbcc50d5
+
+https://www.notion.so/1z0-808-java-bf957b9e78c2431990978d3173445f91
