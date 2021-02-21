@@ -96,3 +96,9 @@
 >>> 陣列。<br />
 >> 8. [Casting.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson02/Casting.java)
 >>> 強制轉型。<br />
+
+https://www.notion.so/1z0-808-675fb2a89e524ed7a76a5863295496b2
+
+https://www.notion.so/1z0-808-a0a95ce0eb3147ff9153fb6d0b110684
+
+https://www.notion.so/1z0-808-Loop-b5436d2eb7d141f5aaba01359f24fab8
